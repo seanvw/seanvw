@@ -1,0 +1,15 @@
+---
+title: "SeanVW"
+---
+
+A place to keep some links of publicly accessible mini-projects...
+
+-   [Quarto initiation](https://seanvw.github.io/Hello_Quarto/ "Quarto initiation")
+
+-   [Linear Mixed-Effect Models examples](https://seanvw.github.io/Linear_Mixed_Effect_Models_2/ "Linear Mixed-Effect Models examples")
+
+-   
+
+```{r}
+date()
+```

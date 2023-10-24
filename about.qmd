@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+Just getting started with Quarto websites for publishing non-proprietary information.
+
+My publicly accessible published research is listed on ResearchGate: [ResearchGate Research](https://www.researchgate.net/profile/Sean-Walsh-9/research "ResearchGate Research")
+
+```{r}
+date()
+```
