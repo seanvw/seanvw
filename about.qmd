@@ -8,4 +8,10 @@ Here are some of my personal links:
 
 -   [LinkedIn](https://www.linkedin.com/in/sean-walsh-20299b7b/ "LinkedIn")
 
--   [GitHub](https://github.com/seanvw "GitHub") (just educational repositories are public)
+-   GitHub
+
+    -   just educational repositories are public
+
+    -   most [projects will have a corresponding github pages website](index.html "projects will have a corresponding github pages website")
+
+    -   [code](https://github.com/seanvw "GitHub code") view

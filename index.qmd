@@ -1,5 +1,5 @@
 ---
-title: "SeanVW"
+title: "Projects"
 ---
 
 A place to keep some links of publicly accessible mini-projects. The vast majority of my work is unfortunately proprietary. Since coming across Quarto in the autumn of 2023, my intention is to keep educational coding examples within this space for future reference.
