@@ -11,7 +11,7 @@ website:
 
 format:
   html:
-    theme: solarized-light
+    theme: united
     css: styles.css
     toc: true
 
