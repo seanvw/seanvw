@@ -2,14 +2,14 @@
 title: "SeanVW"
 ---
 
-A place to keep some links of publicly accessible mini-projects...
+A place to keep some links of publicly accessible mini-projects. The vast majority of my work is unfortunately proprietary. Since coming across Quarto in the autumn of 2023, my intention is to keep educational coding examples within this space for future reference.
 
 -   [Quarto initiation](https://seanvw.github.io/Hello_Quarto/ "Quarto initiation")
 
 -   [Linear Mixed-Effect Models examples](https://seanvw.github.io/Linear_Mixed_Effect_Models_2/ "Linear Mixed-Effect Models examples")
 
--   
+-   [RNA Seq Analysis examples](https://seanvw.github.io/RNA_Analysis/ "RNA Seq Analysis examples")
 
-```{r}
-date()
-```
+-   [Dashboard examples](https://seanvw.github.io/Dashboards/ "Dashboard examples")
+
+-   ...more...

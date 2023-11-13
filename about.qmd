@@ -2,12 +2,10 @@
 title: "About"
 ---
 
-Just getting started with Quarto websites for publishing non-proprietary information. Very much a building site.
+Here are some of my personal links:
 
--   My publicly accessible and published research is listed on [ResearchGate Research](https://www.researchgate.net/profile/Sean-Walsh-9/research "ResearchGate Research")
+-   Publicly accessible and published research is listed on [ResearchGate](https://www.researchgate.net/profile/Sean-Walsh-9/research "ResearchGate")
 
--   My [LinkedIn](https://www.linkedin.com/in/sean-walsh-20299b7b/ "LinkedIn")
+-   [LinkedIn](https://www.linkedin.com/in/sean-walsh-20299b7b/ "LinkedIn")
 
-```{r}
-date()
-```
+-   [GitHub](https://github.com/seanvw "GitHub") (just educational repositories are public)
