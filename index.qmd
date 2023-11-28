@@ -10,6 +10,8 @@ A place to keep some links of publicly accessible mini-projects. The vast majori
 
 -   [RNA Seq Analysis examples](https://seanvw.github.io/RNA_Analysis/ "RNA Seq Analysis examples")
 
--   [Dashboard examples](https://seanvw.github.io/Dashboards/ "Dashboard examples")
+-   [Dashboard examples with Quarto](https://seanvw.github.io/Dashboards/ "Dashboard examples with Quarto")
+
+-   [Dash and similar](https://seanvw.github.io/Dash/ "Dash and similar")
 
 -   ...more...
