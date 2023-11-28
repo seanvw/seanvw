@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[For more info](https://seanvw.github.io/seanvw/)
+[For more information, see here](https://seanvw.github.io/seanvw/)
 
 <!--
 **seanvw/seanvw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
