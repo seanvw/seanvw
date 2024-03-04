@@ -16,6 +16,8 @@ A place to keep some links of publicly accessible mini-projects. The vast majori
 
 -   [Insertional mutagenesis — interactive saturation simulation](https://seanvw.github.io/mutagenesis/ "Insertional mutagenesis — interactive saturation simulation")
 
--   [WGS Bacteria](https://seanvw.github.io/WGS_Bacteria/ "WGS Bacteria") ..ongoing..
+-   [Insertional mutagenesis — interactive saturation simulation](https://seanvw.github.io/mutagenesis/ "Insertional mutagenesis — interactive saturation simulation")
 
--   ...more...
+-   [WGS Bacteria](https://seanvw.github.io/WGS_Bacteria/ "WGS Bacteria") 
+
+-   ...more...ongoing..
