@@ -18,6 +18,22 @@ A place to keep some links of publicly accessible mini-projects. The vast majori
 
 -   [Insertional mutagenesis — interactive saturation simulation](https://seanvw.github.io/mutagenesis/ "Insertional mutagenesis — interactive saturation simulation")
 
--   [WGS Bacteria](https://seanvw.github.io/WGS_Bacteria/ "WGS Bacteria") 
+-   [WGS Bacteria](https://seanvw.github.io/WGS_Bacteria/ "WGS Bacteria")
 
--   ...more...ongoing..
+And, some links directly into GitHub
+
+-   [LabKey evaluation](https://github.com/seanvw/Egs_LabKey/blob/main/README.md)
+
+-   [Example(s), Artificial Neural Network with Python](https://github.com/seanvw/Ann_Egs/blob/main/ANN_Fit_Multi_Var_Models_v01.ipynb)
+
+-   [Google Cloud Platform](https://cloud.google.com/?hl=en)
+
+    -   [BigQuery - Looker Studio - Gemini integration](https://github.com/seanvw/GCP_Egs/blob/main/README.md)
+
+    -   [ApexAI, AutoML, BQML](https://github.com/seanvw/vertex-ai-mlops-sw/blob/main/readme.md)
+
+    -   PySR, High-Performance Symbolic Regression in Python and Julia
+
+    -   Foundation Models.
+
+    -   etc
