@@ -33,7 +33,7 @@ And, some links directly into GitHub
 
 -   [ApexAI, AutoML, BQML](https://github.com/seanvw/vertex-ai-mlops-sw/blob/main/readme.md)
 
--   [Claude DB API](https://github.com/seanvw/claude_db_api_1)
+-   [Claude DB REST API, UI and MCP server ](https://github.com/seanvw/claude_db_api_1)
 
 -   PySR, High-Performance Symbolic Regression in Python and Julia
 
